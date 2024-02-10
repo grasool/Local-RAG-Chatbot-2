@@ -22,6 +22,6 @@ index = VectorStoreIndex.from_documents(
 )
 
 query_engine = index.as_query_engine()
-response = query_engine.query("What did the author do growing up?")
+response = query_engine.query("What are PCR and FISH and how are these related to glioblastomas?")
 print(response)
 
