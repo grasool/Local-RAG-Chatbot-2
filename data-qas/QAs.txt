@@ -1,0 +1,45 @@
+1. Q: Which organization provides information about cancer screening tests?
+A: The National Cancer Institute (NCI)
+2. Q: What does the NCI website offer regarding cancer screening?
+A: Information and answers to frequently asked questions about various types of cancer screening tests.
+3. Q: What type of cancer can a mammogram help detect?
+A: Breast cancer
+
+4. Q: How often is a mammogram recommended for women with an average risk of breast cancer?
+A: Every year or every other year, depending on age and personal circumstances.
+
+5. Q: What does a Pap test screen for?
+A: Cervical cancer and precancerous changes in the cervix.
+
+6. Q: How often is a Pap test recommended for women?
+A: Typically every 3 years between the ages of 21 and 65, but this can vary depending on individual circumstances.
+
+7. Q: Which test screens for colorectal cancer?
+A: Colonoscopy or other tests such as fecal immunochemical tests (FIT) or stool DNA tests.
+8. Q: How often is a colonoscopy recommended for people at average risk of colorectal cancer?
+A: Starting at age 45, the American Cancer Society recommends having a colonoscopy every 10 years.
+9. Q: What does a PSA test screen for in men?
+A: Prostate cancer and other conditions that may affect the prostate gland.
+10. Q: How often should a man have a PSA test?
+A: The American Cancer Society recommends starting at age 50 and then having it every year or two if results are normal. However, individual circumstances may warrant earlier or more frequent testing.
+11. Q: Which cancer can a skin self-exam help detect?
+A: Melanoma and other types of skin cancer.
+12. Q: What should individuals do if they notice any changes in their skin?
+A: They should contact their healthcare provider to have the area checked.
+13. Q: Which test screens for lung cancer?
+A: Low-dose computed tomography (LDCT) scan or a chest X-ray.
+14. Q: How often is an LDCT scan recommended for heavy smokers?
+A: Annual screenings are recommended for individuals between the ages of 50 and 80 who have a 30 pack-year smoking history.
+15. Q: Which cancer can a liver function test help detect?
+A: Liver cancer, but it may not always be detectable in its early stages.
+16. Q: How often should individuals have a liver function test?
+A: As part of a routine physical exam, typically every year for adults.
+17. Q: Which type of cancer can the Human Papillomavirus (HPV) vaccine help prevent?
+A: Cervical, vaginal, and vulvar cancers caused by HPV infections.
+18. Q: Who should receive the HPV vaccine?
+A: The Centers for Disease Control and Prevention (CDC) recommends it for boys and girls aged 11-12 years, but it can be given as early as age 9 and as late as age 
+26.
+19. Q: Which cancer can a testicular self-exam help detect?
+A: Testicular cancer.
+20. Q: When should men perform a testicular self-exam?
+A: Monthly, after a warm shower or bath when the scrotal skin is relaxed.
